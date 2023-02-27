@@ -1,6 +1,5 @@
 {
-  /* Multi-line Comment
-  */
+  // Single-line Comment
   "$schema": "https://app.flightcontrol.dev/schema.json",
   "environments": [
     {
