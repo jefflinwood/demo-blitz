@@ -5,7 +5,7 @@
     {
       "id": "production",
       "name": "Production",
-      "region": "us-west-1",
+      "region": "us-east-1",
       "source": {
         "branch": "main"
       },
